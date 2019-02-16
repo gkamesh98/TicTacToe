@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic tac Toe</string>
+    <string name="button">Play</string>
+    <string name="button2">Help</string>
+    <string name="button3">Exit</string>
+    <string name="title_activity_player">Player</string>
+    <string name="exit">Exit</string>
+    <string name="help">Help</string>
+    <string name="play">Play</string>
+    <string name="title_activity_help">Help</string>
+</resources>
